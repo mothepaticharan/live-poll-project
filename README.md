@@ -1,2 +1,13 @@
-# live-poll-project
-A simple live poll web application built using HTML, CSS, and JavaScript.
+# Live Poll System
+
+A simple live poll web application.
+
+## Features
+- Display poll question
+- User can vote
+- Instant result display
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
